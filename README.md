@@ -48,6 +48,8 @@ LFI attacks involve manipulating file paths to access sensitive system files lik
 
 ---
 
+SOC165-SQL-Injection
+
 ## 🎯 Goal
 
 This portfolio demonstrates readiness for an entry-level SOC Analyst role by showcasing practical, hands-on cybersecurity experience.
