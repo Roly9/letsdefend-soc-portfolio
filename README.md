@@ -20,12 +20,14 @@ Each case demonstrates hands-on experience in:
 - Verdict: True Positive
 - Outcome: Unsuccessful attack
 - Skills: Log analysis, attack detection, HTTP analysis
+- [SOC170 – Local File Inclusion (LFI)](SOC170-LFI-Attack/report.md)
 
 ### 🔹 SOC165 – SQL Injection Attempt
 - Type: Web Attack
 - Verdict: True Positive
 - Outcome: Unsuccessful attack
 - Skills: URL decoding, payload analysis, log correlation
+- [SOC165 – SQL Injection](SOC165-SQL-Injection/report.md)
 
 ---
 
